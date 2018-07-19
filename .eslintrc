@@ -1,4 +1,7 @@
 {
     "plugins": ["@zapier/zapier"],
-    "extends": ["plugin:@zapier/zapier/base"]
+    "extends": ["plugin:@zapier/zapier/base"],
+    "env": {
+        "jest": true
+    }
 }
