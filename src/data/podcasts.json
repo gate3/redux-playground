@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Linda Watkins",
+            "description":"Linda talks about how machine learning models can be used as effective substitutes for classic data structures."
+        },
+        {
+            "id":2,
+            "name":"Dylan Perry",
+            "description":"Dylan talks to us about how he started programming, challenges he has faced and what keeps him hooked till this day."
+        },
+        {
+            "id":3,
+            "name":"Olivia Valdez",
+            "description":"Olivia talks about how machine learning models can be used as effective substitutes for classic data structures."
+        },
+        {
+            "id":4,
+            "name":"Samuel Chavezy",
+            "description":"Sam talks to us about how he started programming and what keeps him hooked till this day."
+        }
+    ]
+}

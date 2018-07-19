@@ -1,0 +1,4 @@
+{
+    "plugins": ["@zapier/zapier"],
+    "extends": ["plugin:@zapier/zapier/base"]
+}
